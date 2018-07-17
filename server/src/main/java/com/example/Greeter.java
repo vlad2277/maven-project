@@ -9,7 +9,8 @@ public class Greeter {
    * This is a constructor.
    */
   public Greeter() {
-  //Vlad comment
+    //Vlad
+    
   }
   //TODO: Add javadoc comment
   public String greet(String someone) {
